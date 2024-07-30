@@ -5,4 +5,4 @@
 
 Please cite the study stated below if you use the harmonic enhancement or BARE functions:
 
-http:xx:heliyon:yy
+doi: https://doi.org/10.1016/j.heliyon.2024.e35242
